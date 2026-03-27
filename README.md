@@ -17,7 +17,7 @@ När du är klar med denna modul kommer du kunna skapa interaktiva React-applika
 
 ### Presentationer
 
-* [Hooks & State]()
+* [Hooks & State](https://docs.google.com/presentation/d/1-Qfrx4XpvIj0t4C2ovRsvtl7bBscSs5L/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -27,7 +27,7 @@ När du är klar med denna modul kommer du kunna skapa interaktiva React-applika
 
 ### Filmer
 
-* [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza) - Film 21 tll 32 mest är relevanta för den första veckan, 33 till 39 handlar om styling vilket också kan vara användbart
+* [ReactJS Tutorial](https://www.youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza) - Film 21 tll 32 mest är relevanta för vecka 2, 33 till 39 handlar om styling vilket också kan vara användbart
 
 ### Länkar
 
