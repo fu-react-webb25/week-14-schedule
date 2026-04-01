@@ -23,6 +23,7 @@ När du är klar med denna modul kommer du kunna skapa interaktiva React-applika
 
 * [Interaktivitet, Hooks & State](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQDM1fffMEQsT7skk4VBG3IhAYv13Eg7AiIv35PEEWQzfd4?e=pY5GIa)
 * [State PokeDB](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQALxJsqtzbTTp_JZGEPHL1CAcDHHaCQrtGkEvqZcV-R75Q?e=zPikSE)
+* [Code Along, Country Explorer](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBLQETDDPvpQ6vr8ZYftvNxAdUZOlnfeDLvR4cPrQ1D1g0?e=bADzkp)
 
 ### Lektionsrepon
 
